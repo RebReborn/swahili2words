@@ -23,8 +23,9 @@ First, clone the repo:
 ```bash
 git clone https://github.com/rebreborn/swahili2words.git
 cd swahili2words
-Then install the package locally:
 ```
+Then install the package locally:
+
 ```
 pip install .
 ```
