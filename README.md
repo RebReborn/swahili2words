@@ -18,24 +18,32 @@ Convert numeric numbers into Swahili words — including support for decimals, c
 
 First, clone the repo:
 
-```
-git clone https://github.com/your-username/swahili2words.git
+```bash
+git clone https://github.com/rebreborn/swahili2words.git
 cd swahili2words
 Install locally using pip:
+
+bash
 
 pip install .
 This will install the swahili2words command globally in your Python environment.
 
 🔧 Usage
+bash
 
 swahili2words 123456.78
 Output:
 
+nginx
+
 laki moja ishirini na tatu elfu mia nne hamsini na sita nukta sabini na nane
 🪙 Currency Mode
+bash
 
 swahili2words 123456.78 --currency
 Output:
+
+nginx
 
 shilingi laki moja ishirini na tatu elfu mia nne hamsini na sita na senti sabini na nane
 💡 Examples
@@ -48,6 +56,7 @@ Input	Command	Output
 123.45	swahili2words 123.45 --currency	shilingi mia ishirini na tatu na senti arobaini na tano
 
 📁 Project Structure
+arduino
 
 swahili2words/
 ├── swahili2words/
@@ -74,5 +83,3 @@ MIT License © 2025 Rodrick
 
 🔗 Author
 Made with 🇰🇪 & ❤️ by Rodrick
-
-
