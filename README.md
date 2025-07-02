@@ -83,7 +83,7 @@ swahili2words/
 └── README.md
 ```
 
-🛠️ To Do (Suggestions)
+🛠️ To Do (Future Updates)
  Add support for ordinal numbers (e.g., "wa kwanza", "wa pili")
 
  Add support for thousands separator parsing (e.g., "1,000")
@@ -95,10 +95,10 @@ swahili2words/
  Publish to PyPI
 
 🤝 Contributing
-Pull requests are welcome! If you'd like to help with grammar, translations, features, or UI, feel free to fork and contribute.
+Pull requests are welcome! If you'd like to help with grammar, translations, features, UI or work on the To Do list, feel free to fork and contribute.
 
 📄 License
 MIT License © 2025 Rodrick
 
 🔗 Author
-Made with 🇰🇪 & ❤️ by Rodrick Mzaliwa
+Made with 🇰🇪 🇹🇿 🇨🇩 & ❤️ by Rodrick Mzaliwa
